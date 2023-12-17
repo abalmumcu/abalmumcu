@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abalmumcu&" alt="abalmumcu" /></p>
 
-![snake gif](https://github.com/abalmumcu/abalmumcu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/abalmumcu/abalmumcu/blob/output/github-contribution-grid-snake-dark.svg)
