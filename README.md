@@ -1,17 +1,6 @@
 
-![MasterHead](https://repository-images.githubusercontent.com/304958084/463f1493-9929-4dfe-b279-4fdfa3190372)
-
 
 <h1 align="center">Hi 👋, I'm Alper Balmumcu</h1>
-<h3 align="center">A passionate AI Engineer</h3>
-
-- 🔭 I’m currently working on **Machine Learning**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@alperbalmumcu)
-
-- 💬 Ask me about **Computer Vision**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alperbalmumcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperbalmumcu" height="30" width="40" /></a>
 <a href="https://medium.com/@alperbalmumcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alperbalmumcu" height="30" width="40" /></a>
